@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[M.lee Harris Driving Tips]]></title>
+        <description><![CDATA[M.lee Harris Driving Tips]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 14 Apr 2016 22:31:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hello. New To American Driving? Then M.Lee Harris Has The Information And Tips To A Smooth Transition.</p>]]></description>
+            <link>undefinedhello-new-to-american-driving-then-mlee-harris-has-the-in/index.html</link>
+            <guid isPermaLink="false">12e5099f-7b0c-4ed5-9efd-e0ebb47ee41f</guid>
+            <pubDate>Thu, 14 Apr 2016 22:30:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
